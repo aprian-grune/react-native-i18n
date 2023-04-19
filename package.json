@@ -1,5 +1,5 @@
 {
-  "name": "@aprian-chlova/react-native-i18n",
+  "name": "@aprian-grune/react-native-i18n",
   "version": "2.0.16",
   "description": "Provide I18n to your React Native application",
   "license": "MIT",
@@ -26,6 +26,6 @@
     "test": "exit 0"
   },
   "publishConfig": {
-    "@aprian-chlova:registry": "https://npm.pkg.github.com"
+    "@aprian-grune:registry": "https://npm.pkg.github.com"
   }
 }
