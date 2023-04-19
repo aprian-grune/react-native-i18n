@@ -27,5 +27,6 @@
   },
   "publishConfig": {
     "@aprian-grune:registry": "https://npm.pkg.github.com"
-  }
+  },
+  "devDependencies": {}
 }
