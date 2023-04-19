@@ -24,5 +24,8 @@
   },
   "scripts": {
     "test": "exit 0"
+  },
+  "publishConfig": {
+    "@aprian-chlova:registry": "https://npm.pkg.github.com"
   }
 }
